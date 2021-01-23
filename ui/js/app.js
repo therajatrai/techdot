@@ -36,7 +36,7 @@ $('#errorbox').hide()
   var aadhaar_no_phone_no = {
   	"7382537xxxxx": "915801xxxx",
   	"300000000000": "7276xxxxxx",
-	"<replace your aadhaar no here>": "<your phone number>",
+	"699559457014":"9911930964,
   }
 
 
